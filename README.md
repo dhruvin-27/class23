@@ -1,2 +1,1 @@
-# class23
-topplig box
+# Box Class
